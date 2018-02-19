@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jessie
+Date: Tue, 20 Feb 2018 19:34:42 UTC
+Architectures: armhf
+Components: main
+MD5Sum:
+ 028340c850891da1d018c2a81f0e3f25 617 main/binary-armhf/Packages
+ ebf4edc82f191322184ab1c6d5027df5 430 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 34b85082d2673ef07f9cd12cb8e716eaa88bcfd9 617 main/binary-armhf/Packages
+ 89d64d63fa1e6814f9a09bb009cd94a173e0d677 430 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ 780b3a7be44458f66596b83ab7cd8a727fe644d868b30a127ef8ccb322f19356 617 main/binary-armhf/Packages
+ cb74f7e7cce90449f057a7eefc26f83d2c9e1ab3fa927a6e9488195d92382325 430 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEELMm4D1rit6zv8royCRRvL3lTpFUFAlqMeFUACgkQCRRvL3lT
+pFUJlA//Qbji/G/zFC0Ip6UvCNrr0lHY5U5VcyR3VZNgUy3Q5ACxsU7raj+ray+x
+tha3haVDqtRzgi08sL9gpEYAK3Xxs2jKoow7/uJPJqTsj5Uquq9b6id/zDKDAiYP
+9ZJ3RVXPJxrj8rmKEuLc7tTBQfZYVVYGBq2B//tMtVhyx+fh4MC0p1ZebpF2qhpG
+/apJRWM9dA9ltteLvIK6C+RbiWlDSCIP2BrdJUJ3YGorYaiyeRskPjeSlftmmbwT
+piiq3H3NYbrxWaLfDdyIGl4+GwQ0zM47iDc8J+5fbiwNMBxSgAdlIN9igW0EbZJt
+OXpoNN9+FDPkHV9YDXUakFuAEb/AXEps6bs9sGA8omYtDZI0JGDf4GvJ18gzu6sl
+muU6Rn8+RIwmtocV8ul13y8rEs8yWv44lCqgnuFHeVwJsAOiId6u8D9dqUM4mA0U
+DjGkRVT5M8qsSprZTF121VZElRAzV81tNgnPpkQoMUt9wDb7JCCPM4hqoL4Up4qa
+AYtdeyCyGHBMyy1YSyL4TyUicDztzIEGvDPmQVv+wSV+71uhk2JXCDAQlUqBhuM3
+miqrGq/mMC1hWOS4GpvnrQmo+W2oOV2vcKwr67TaSoJxKr5w26vbAu7uqwLEjjtq
+3CXBzcNlbjmxWoNjW5+HDzb0WMG1An4A2/g0AiRbBQ8RM2imv74=
+=LKx/
+-----END PGP SIGNATURE-----

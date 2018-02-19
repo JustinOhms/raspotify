@@ -1,0 +1,16 @@
+Codename: jessie
+Date: Tue, 20 Feb 2018 19:34:42 UTC
+Architectures: armhf
+Components: main
+MD5Sum:
+ 028340c850891da1d018c2a81f0e3f25 617 main/binary-armhf/Packages
+ ebf4edc82f191322184ab1c6d5027df5 430 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 34b85082d2673ef07f9cd12cb8e716eaa88bcfd9 617 main/binary-armhf/Packages
+ 89d64d63fa1e6814f9a09bb009cd94a173e0d677 430 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ 780b3a7be44458f66596b83ab7cd8a727fe644d868b30a127ef8ccb322f19356 617 main/binary-armhf/Packages
+ cb74f7e7cce90449f057a7eefc26f83d2c9e1ab3fa927a6e9488195d92382325 430 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
